@@ -284,6 +284,7 @@
 #### Auth
 
 - ![](https://img.shields.io/github/stars/iamolegga/nestjs-session.svg?style=flat-square) [`nestjs-session`](https://github.com/iamolegga/nestjs-session) - Idiomatic Session Module for NestJS. Built on top of [express-session](https://npm.im/express-session).
+- ![](https://img.shields.io/github/stars/ivanvs/nest-zitadel.svg?style=flat-square) [`nest-zitadel`](https://github.com/ivanvs/nest-zitadel) - Module enables easy integration with [Zitadel](https://zitadel.com/) for user authentication and basic authorization.
 
 #### Reliability
 
